@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Website Sign Up</title>
+</head>
+<body>
+<center>
+<h1>Log In</h1>
+<br/>
+<br/>
+<p><b>Username:</b> <input type="text"></p>
+<p><b>Password:</b> <input type="text"><p>
+
+<a href="">Forgot Username</a>
+<br/>
+<a href="">Forgot Password</a>
+</body>
+</html>
